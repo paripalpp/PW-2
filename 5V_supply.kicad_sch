@@ -1690,7 +1690,7 @@
     (property "Value" "2.2k_Potentiometer" (id 1) (at 196.088 103.4666 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 194.31 101.6 0)
+    (property "Footprint" "Potentiometer_additional:Potentiometer_Murata_PVZ3A" (id 2) (at 194.31 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 194.31 101.6 0)
